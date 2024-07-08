@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signalr.Demo", "Signalr.Demo\Signalr.Demo.csproj", "{63206B0E-DF25-40BA-A2B8-6343313B5003}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{C2E02246-E482-4DC1-BEDE-1F3487EDB836}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+		..\blazor-server.png = ..\blazor-server.png
+		..\blazor-webassembly.png = ..\blazor-webassembly.png
+		..\hybrid-apps-1.png = ..\hybrid-apps-1.png
+		..\redis-backplane.png = ..\redis-backplane.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63206B0E-DF25-40BA-A2B8-6343313B5003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63206B0E-DF25-40BA-A2B8-6343313B5003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63206B0E-DF25-40BA-A2B8-6343313B5003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63206B0E-DF25-40BA-A2B8-6343313B5003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
